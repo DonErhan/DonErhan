@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 I'm Andrei
-
-Data Scientist | Data Analyst
 ----------------------------
 
 * 💼 Data Analyst at maib
