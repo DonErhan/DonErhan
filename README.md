@@ -3,7 +3,7 @@
 I'm Andrei
 ----------------------------
 
-* 💼 Data Analyst at maib
+* 💼 Data Scientist at maib
 
 ### Technology Stack
 -------------
